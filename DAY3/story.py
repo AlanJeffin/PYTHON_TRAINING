@@ -1,0 +1,7 @@
+story=input("Enter the Story:")
+story=story.replce("the","")
+story=story.replce("The","")
+story=story.replce("an","")
+story=story.replce("An","")
+story=story.replce("a","")
+story=story.replce("A","")
